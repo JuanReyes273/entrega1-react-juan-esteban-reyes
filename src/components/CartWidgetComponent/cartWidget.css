@@ -1,0 +1,19 @@
+.navbar-cart {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .cart-icon {
+    font-size: 20px;
+    margin-right: 5px;
+  }
+
+  .cart-count {
+    background-color: #333;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 5px;
+    border-radius: 50%;
+  }
